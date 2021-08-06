@@ -19,6 +19,7 @@ My first choice for web development and DeFi apps.
 - Large pool of skilled developers
 
 [![](RackMultipart20210806-4-z47tpm_html_6927faa6d00811ae.png)](https://github.com/mcmlxiv/Images/blob/main/htgoz.png)
+![alt text](https://github.com/mcmlxiv/Images/blob/main/htgoz.png)
 
 **Hardhat, Truffle, Ganache, OpenZeppelin**
 
