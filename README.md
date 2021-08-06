@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Hello! I&#39;m John, a full stack DeFi developer**
+**I&#39;m John, a full stack DeFi developer**
 
 Technology I like to use:
 
@@ -31,5 +31,5 @@ I believe in standing on the shoulders of giants. In this case, OpenZeppelin&#39
 
 **About Me**
 
-I have over 2 years of development experience. I am passionate about DeFi, so much so that I have most of my own wealth in crypto.dZuo#4195 if you have a cool project. Let's chat!
+I have over 2 years of development experience. I am passionate about DeFi, so much so that I have most of my own wealth in crypto.
 -->
