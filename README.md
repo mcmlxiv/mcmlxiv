@@ -4,7 +4,7 @@
 
 Technology I like to use:
 
-[![](RackMultipart20210806-4-z47tpm_html_b10ce8fccab25917.png)](https://github.com/mcmlxiv/Images/blob/main/mern.png)
+![alt text](https://github.com/mcmlxiv/Images/blob/main/mern.png)
 
 My first choice for web development and DeFi apps.
 
