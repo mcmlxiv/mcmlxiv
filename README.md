@@ -23,7 +23,7 @@ My first choice for web development and DeFi apps.
 
 **Hardhat, Truffle, Ganache, OpenZeppelin**
 
-I am a fan of both the Hardhat and Truffle suites for the development of Smart Contracts / DApps. Each has some advantages: Hardhat is easy to use, can fork chains quickly, and supports Typescript; Truffle has an elegant UI and some friendly debugging tools. I won&#39;t pick either side in this debate.
+I am a fan of both the Hardhat and Truffle suites for the development of Smart Contracts / DApps. Each has some advantages: Hardhat is easy to use, can fork chains quickly, and supports Typescript; Truffle has an elegant UI and some friendly debugging tools.
 
 I believe in standing on the shoulders of giants. In this case, OpenZeppelin&#39;s smart contract templates and interfaces. Well tested and secure, so they are my go-to to start a project.
 
@@ -31,5 +31,5 @@ I believe in standing on the shoulders of giants. In this case, OpenZeppelin&#39
 
 **About Me**
 
-I have over 2 years of development experience. I am passionate about DeFi, so much so that I have most of my own wealth in crypto. Let's work together!
+ I am passionate about DeFi, so much so that I have most of my own wealth in crypto. Let's work together!
 
