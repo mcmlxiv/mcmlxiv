@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I&#39;m John, a full stack DeFi developer**
+**I&#39;m John, a full stack Web3 developer**
 
 Technology I like to use:
 
